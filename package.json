@@ -1,0 +1,20 @@
+{
+  "name": "anima-design-token-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "anima sync --design-tokens ./design-tokens.json"
+  },
+  "devDependencies": {
+    "@animaapp/anima-cli": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-andrico-anima:AnimaApp/anima-design-token-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
