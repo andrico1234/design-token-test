@@ -2,7 +2,37 @@
   "amber-1": {
     "id": "S:e6f0c9af3e2fdb56b0b7707be87d880cac50d712,",
     "$type": "color",
-    "$value": "#4e20aa",
+    "$value": "#4e2009",
+    "$description": ""
+  },
+  "amber-2": {
+    "id": "S:c3deac5807256dccf9842df14cdd562a824b15ca,",
+    "$type": "color",
+    "$value": "#ad5700",
+    "$description": ""
+  },
+  "shadow1": {
+    "id": "S:49df21d797f21d5edbd15c773ba64e13097d26b7,",
+    "$type": "shadow",
+    "$value": {
+      "color": "#ff00ff",
+      "blur": "2px",
+      "offsetX": "1px",
+      "offsetY": "3px",
+      "spread": "4px"
+    },
+    "$description": ""
+  },
+  "heading1": {
+    "id": "S:2eacaf63a3c57fc08a9a5adc1c2f073bd2f66c36,",
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Roboto",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "letterSpacing": "0.5px",
+      "lineHeight": 32
+    },
     "$description": ""
   }
 }
