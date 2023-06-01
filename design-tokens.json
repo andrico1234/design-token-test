@@ -4,12 +4,6 @@
       "1": {
         "id": "S:8a58bbd860e4fb15f6d302e9bb548aa5fd9fefdb,",
         "$type": "color",
-        "$value": "#ffffaa",
-        "$description": ""
-      },
-      "2": {
-        "id": "S:98db8780be81d219fe0133a7b80c6a33fd87b4cc,",
-        "$type": "color",
         "$value": "#ffffff",
         "$description": ""
       }
@@ -18,13 +12,13 @@
   "amber-1": {
     "id": "S:e6f0c9af3e2fdb56b0b7707be87d880cac50d712,",
     "$type": "color",
-    "$value": "#4e20aa",
+    "$value": "#4e2009",
     "$description": ""
   },
   "amber-2": {
     "id": "S:c3deac5807256dccf9842df14cdd562a824b15ca,",
     "$type": "color",
-    "$value": "#ad5711",
+    "$value": "#ad5700",
     "$description": ""
   },
   "shadow1": {
@@ -40,7 +34,7 @@
     "$description": ""
   },
   "heading1": {
-    "id": "S:ba7aa81a46182bedb9d21537220ca10726e046aa,",
+    "id": "S:2eacaf63a3c57fc08a9a5adc1c2f073bd2f66c36,",
     "$type": "typography",
     "$value": {
       "fontFamily": "Roboto",
@@ -50,12 +44,5 @@
       "lineHeight": 32
     },
     "$description": ""
-  },
-  "new-tokens2": {
-    "$type": "color",
-    "$value": "#e80e0e",
-    "description": "",
-    "id": "S:731b9403d1946b55aa6369df70b5da24c8b19423,"
-
   }
 }
