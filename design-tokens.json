@@ -5,7 +5,7 @@
     "$value": "#4e20aa",
     "$description": ""
   },
-  "amber-2": {
+  "amber-3": {
     "id": "S:c3deac5807256dccf9842df14cdd562a824b15ca,",
     "$type": "color",
     "$value": "#ad5700",
@@ -23,7 +23,7 @@
     },
     "$description": ""
   },
-  "heading1": {
+  "heading3": {
     "id": "S:2eacaf63a3c57fc08a9a5adc1c2f073bd2f66c36,",
     "$type": "typography",
     "$value": {
