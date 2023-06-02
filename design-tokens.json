@@ -11,6 +11,11 @@
     "$value": "#ad5700",
     "$description": ""
   },
+  "amber-4": {
+    "$type": "color",
+    "$value": "#ad57aa",
+    "$description": ""
+  },
   "shadow1": {
     "id": "S:49df21d797f21d5edbd15c773ba64e13097d26b7,",
     "$type": "shadow",
