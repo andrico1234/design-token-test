@@ -11,14 +11,9 @@
     "$value": "#ad5700",
     "$description": ""
   },
-  "amber-4": {
+  "amber-5": {
     "$type": "color",
     "$value": "#ad57aa",
-    "$description": ""
-  },
-  "amber-6": {
-    "$type": "color",
-    "$value": "#ad57cc",
     "$description": ""
   },
   "shadow1": {
