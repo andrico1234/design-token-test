@@ -1,0 +1,9 @@
+{
+  "red": {
+    "300": {
+      "$type": "color",
+      "$value": "#d92727",
+      "$description": ""
+    }
+  }
+}
