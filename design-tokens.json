@@ -6,18 +6,19 @@
     "$description": ""
   },
   "amber-3": {
-    "id": "S:c3deac5807256dccf9842df14cdd562a824b15ca,",
+    "id": "S:9fffeb0d41a47c20e5347d6af0fcf7e05a476764,",
     "$type": "color",
     "$value": "#ad5700",
     "$description": ""
   },
-  "amber-6": {
+  "amber-5": {
+    "id": "S:d0688c61402f7bfb87f699dacb4f5ae9d2b67a93,",
     "$type": "color",
     "$value": "#ad57aa",
     "$description": ""
   },
   "shadow1": {
-    "id": "S:49df21d797f21d5edbd15c773ba64e13097d26b7,",
+    "id": "S:6961060698dc0614b935879459e27865fa30f5c5,",
     "$type": "shadow",
     "$value": {
       "color": "#ff00ff",
@@ -29,7 +30,7 @@
     "$description": ""
   },
   "heading3": {
-    "id": "S:2eacaf63a3c57fc08a9a5adc1c2f073bd2f66c36,",
+    "id": "S:cd381bec15e2855a6393bc695a9708741ce06673,",
     "$type": "typography",
     "$value": {
       "fontFamily": "Roboto",
