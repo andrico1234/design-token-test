@@ -1,23 +1,30 @@
 {
-  "amber-1": {
-    "id": "S:e6f0c9af3e2fdb56b0b7707be87d880cac50d712,",
-    "$type": "color",
-    "$value": "#4e20aa",
-    "$description": ""
-  },
   "amber-3": {
-    "id": "S:c3deac5807256dccf9842df14cdd562a824b15ca,",
+    "id": "S:44b4556a0cc1a80ef73fdbe879e0e1d6d10adaf9,",
     "$type": "color",
     "$value": "#ad5700",
     "$description": ""
   },
   "amber-6": {
+    "id": "S:3d2115f9abf190917bbf5e47c2345cefdae8431a,",
     "$type": "color",
     "$value": "#ad57aa",
     "$description": ""
   },
-  "shadow1": {
-    "id": "S:49df21d797f21d5edbd15c773ba64e13097d26b7,",
+  "amber-4": {
+    "id": "S:a6d6c676bea1deabd3d23a952919df539b65a27f,",
+    "$type": "color",
+    "$value": "#4e20aa",
+    "$description": ""
+  },
+  "red": {
+    "id": "S:b1b35f998a4762345085f8e8c164b5f56df4525c,",
+    "$type": "color",
+    "$value": "#943d3d",
+    "$description": ""
+  },
+  "shadow12": {
+    "id": "S:a2a7e66036fd0982b8ceabb2003dca15f01e5651,",
     "$type": "shadow",
     "$value": {
       "color": "#ff00ff",
@@ -29,7 +36,7 @@
     "$description": ""
   },
   "heading3": {
-    "id": "S:2eacaf63a3c57fc08a9a5adc1c2f073bd2f66c36,",
+    "id": "S:e60f7f5df9cc82f7bf6f3eaae460906dbf9f64a7,",
     "$type": "typography",
     "$value": {
       "fontFamily": "Roboto",
@@ -39,5 +46,11 @@
       "lineHeight": 32
     },
     "$description": ""
+  },
+  "aassddssaa": {
+    "$type": "color",
+    "$value": "rgba(186, 86, 86, 1)",
+    "$description": "",
+    "id": "S:84b8de602bd7ffed1debbf62c03c826849e38e8e,"
   }
 }
